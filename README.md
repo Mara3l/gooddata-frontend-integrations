@@ -11,7 +11,7 @@ Below is a list of our frontend integrations. If an integration is listed but no
 - React.js
 - Sveltekit
 - Vanilla JavaScript
-- Vue.js
+- [Vue.js](./integrations/vuejs)
 
 ## Did we miss your framework?
 
