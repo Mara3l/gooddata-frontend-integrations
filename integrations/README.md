@@ -11,7 +11,7 @@ Below is a list of our frontend integrations. If an integration is listed but no
 - React.js
 - Sveltekit
 - Vanilla JavaScript
-- [Vue.js](./TODO_LINK)
+- [Vue.js](./https://medium.com/gooddata-developers/frontend-integration-series-vue-js-420adedf6686)
 
 ## Did we miss your framework?
 
