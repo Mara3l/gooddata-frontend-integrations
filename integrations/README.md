@@ -6,12 +6,12 @@ This directory contains examples from our series: [Frontend Integration Series: 
 
 Below is a list of our frontend integrations. If an integration is listed but not linked, its corresponding article is still in production. Once published, we will update this list with a link and add a sample application in this directory.
 
-- Angular
+- [Angular](https://www.gooddata.com/blog/frontend-integration-series-angular/)
 - Next.js
 - React.js
 - Sveltekit
 - Vanilla JavaScript
-- [Vue.js](./TODO_LINK)
+- [Vue.js](https://www.gooddata.com/blog/frontend-integration-series-vue-js/)
 
 ## Did we miss your framework?
 
